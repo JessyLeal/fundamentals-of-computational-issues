@@ -1,0 +1,16 @@
+INICIO 
+IO 
+LOOP 2 
+    MEM 
+    PROCMULT 
+FIMLOOP 
+PROCSUM 
+LOOP 4 
+    IO 
+    FIMLOOP 
+    PROCMULT 
+LOOP 3 
+    MEM 
+FIMLOOP 
+IO 
+FIM
